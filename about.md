@@ -4,12 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Howdy! My name is Hector. I am from Sheridan, Wyoming, USA. I have a BS in Chemical Engineering and I have spent the past two years working for an Environmental Consulting company. I am currently studying to become a web/software developer. Playing soccer and listening to Johnny Cash makes me very happy.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself. 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[email@domain.com](mailto:otero111@hotmail.com)

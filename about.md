@@ -9,4 +9,4 @@ Howdy! My name is Hector. I am from Sheridan, Wyoming, USA. I have a BS in Chemi
 
 ### Contact me
 
-[otero111@hotmail.com](mailto:otero111@hotmail.com)
+[Send me an email](mailto:otero111@hotmail.com)

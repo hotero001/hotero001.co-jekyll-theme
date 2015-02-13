@@ -2,7 +2,11 @@
 layout: default
 ---
 
-<div id="myCarousel" class="carousel slide">
+<article class="page">
+  
+  <h1>{{ page.title }}</h1>
+  
+  <div id="myCarousel" class="carousel slide">
   <ol class="carousel-indicators">
     <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
     <li data-target="#myCarousel" data-slide-to="1"></li>
@@ -18,10 +22,6 @@ layout: default
   <a class="carousel-control left" href="#myCarousel" data-slide="prev">&lsaquo;</a>
   <a class="carousel-control right" href="#myCarousel" data-slide="next">&rsaquo;</a>
 </div>
-
-<article class="page">
-  
-  <h1>{{ page.title }}</h1>
 
   <div class="entry">
     {{ content }}

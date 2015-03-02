@@ -1,4 +1,4 @@
 ---
-layout: title
-post: Tealeaf Academy Course 2, week 1 
+layout: post
+title: Tealeaf Academy Course 2, week 1 
 ---

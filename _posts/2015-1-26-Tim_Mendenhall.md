@@ -1,7 +1,4 @@
----
-layout: post
-title: Cheers to Tim!
----
+
 
 I wrote a partial post yesterday, which will be completed at a later date due to there being a lot of shit on my plate at the moment.
 This is another partial post that I will be sure to complete at a later time. I know, this is bad, right? Starting the posts

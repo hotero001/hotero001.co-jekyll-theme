@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First glimpse of TDD
+title: Glimpse of TDD
 ---
 
 This week I continued my journey on Tealeaf Academy's Ruby on Rails online bootcamp. Students have been asked to test the video model and category model and associations 

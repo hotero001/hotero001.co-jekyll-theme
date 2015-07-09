@@ -60,4 +60,4 @@ run on a seperate database as the development database. Without running the firs
 is 1 example and 0 failures.
 
 Yay! We have written our first successful test using Rspec. For sake of brevity, I will leave out the tests for the category model and 
-associations.
+associations. Also, the example test above is not something we would actually test for in an application since it does not test any of the code we have written but rather tests Rails itself. I have simply included it as an example.

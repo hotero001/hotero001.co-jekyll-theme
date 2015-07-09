@@ -44,5 +44,5 @@ end
 
 As you can see, we can reduce the amount of code we write during testing by using shoulda matchers. You can check 
 out http://matchers.shoulda.io/ for documentation and other examples. Thanks for reading.
-[http://matchers.shoulda.io/](linkto:http://matchers.shoulda.io/)
+[http://matchers.shoulda.io/](http://matchers.shoulda.io/)
 

@@ -34,7 +34,7 @@ describe Category do
 end
 {% endhighlight %}
 
-Using, shoulda matchers we can accomplish the same test above using only the lines below
+Using shoulda matchers we can accomplish the same test above using only the lines below
 
 {% highlight ruby linenos %}
 describe Category do
@@ -42,5 +42,5 @@ describe Category do
 end
 {% endhighlight %}
 
-As you can see, using shoulda matchers we can reduce the amount of code we write during testing. You can check out 
-http://matchers.shoulda.io/ for documentation and other examples. Thanks for reading.
+As you can see, we can reduce the amount of code we write during testing by using shoulda matchers. You can check 
+out http://matchers.shoulda.io/ for documentation and other examples. Thanks for reading.

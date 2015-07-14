@@ -61,3 +61,5 @@ is 1 example and 0 failures.
 
 Yay! We have written our first successful test using Rspec. For sake of brevity, I will leave out the tests for the category model and 
 associations. Also, the example test above is not something we would actually test for in an application since it does not test any of the code we have written but rather tests Rails itself. I have simply included it as an example.
+
+NOTE: $rake db:test:prepare is now deprecated and thus no longer required prior to running tests. Rails test helper now maintains your test schema automatically.

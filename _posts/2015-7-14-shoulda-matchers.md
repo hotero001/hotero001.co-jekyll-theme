@@ -9,7 +9,7 @@ one liner tests for Rails. Shout out to the wonderful dudes/dudettes at Thoughtb
 To use shoulda-matchers, the gem must first be installed. Open your gem file and include the following lines:
 
 =====GEMFILE=====
-{% highlight ruby linenos %}
+{% highlight javascript linenos %}
 group :test do
   gem "shoulda-matchers"
 end

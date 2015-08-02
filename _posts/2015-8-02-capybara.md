@@ -25,3 +25,5 @@ end
 Our app is a simple log in page that has a text input for a username, followed by a Sign in button. The code we have written 
 above creates a username "John Doe" and in the scenario block we test the app by filling in the text input with "john" and then 
 signing in. We then assert that the page should have a username of "John Doe". 
+
+(www.hotero001.github.io/images/404.jpg)

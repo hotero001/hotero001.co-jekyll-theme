@@ -26,4 +26,4 @@ Our app is a simple log in page that has a text input for a username, followed b
 above creates a username "John Doe" and in the scenario block we test the app by filling in the text input with "john" and then 
 signing in. We then assert that the page should have a username of "John Doe". 
 
-(hotero001.github.io/images/404.jpg)
+({{hotero001.github.io}}/images/404.jpg)

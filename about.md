@@ -12,6 +12,6 @@ Cheers & thanks for reading!
 
 ### Contact me
 
-Our company website(currently under construction) can be found at [www.larsenmcdermott.com](www.larsenmcdermott.com)
+Our company website(currently under construction) can be found at [https://www.larsenmcdermott.com](https://www.larsenmcdermott.com)
 
 [Send me an email](mailto:hotero001@larsenmcdermott.com)

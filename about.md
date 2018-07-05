@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Thank you for your application.
 permalink: /about/
 ---
 
